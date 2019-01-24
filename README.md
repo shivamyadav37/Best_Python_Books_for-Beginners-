@@ -13,3 +13,6 @@ List of books for beginners in python
 **Basic online Tutorials [here](https://www.w3schools.com/python/default.asp)**
 
 
+**Basic Online exercises [here](https://www.w3schools.com/python/python_exercises.asp)**
+
+
