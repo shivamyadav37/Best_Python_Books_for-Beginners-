@@ -1,5 +1,5 @@
 # Best_Python_Books_for-Beginners-
-List of books for beginning in python 
+List of books for beginners in python 
 
 **Learning Python - by M Lutz , [here](https://www.amazon.in/Learning-Python-Powerful-Object-Oriented-Programming/dp/9351102017/ref=sr_1_3?ie=UTF8&qid=1548332885&sr=8-3&keywords=learning+python)**
 
