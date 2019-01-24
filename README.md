@@ -10,6 +10,6 @@ List of books for beginners in python
 **Learn Python the Hard Way [here](https://www.amazon.in/Learn-Python-3-Hard-Way/dp/9352865103/ref=sr_1_1?ie=UTF8&qid=1548333063&sr=8-1&keywords=Learn+Python+the+Hard+Way)**
 
 
-**Basic online Tutorials [here](https://www.w3schools.com/python/default.asp) **
+**Basic online Tutorials [here](https://www.w3schools.com/python/default.asp)**
 
 
